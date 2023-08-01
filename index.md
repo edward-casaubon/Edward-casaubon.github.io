@@ -1,7 +1,9 @@
-# MadeUpName
-## PhD Student, MadeUpPlace
+# Edward Casaubon
+## PhD Student, Middlemarch
 
-email: __madeUpName@madeUpDomain.edu__
+I am a 43rd-year PhD student doing independent study in mythology.
+
+email: what is "email"??
 
 ## Research
 
