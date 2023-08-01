@@ -3,7 +3,7 @@
 
 I am a 43rd-year PhD student doing independent study in mythology.
 
-email: what is "email"??
+email: what is "email"?
 
 ## Research
 
